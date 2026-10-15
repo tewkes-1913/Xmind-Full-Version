@@ -240,4 +240,4 @@ This repository serves as the official landing page for XMind. The software is d
 **Get the most recent version of XMind today!**
 
 ---
-**Last updated:** 2026-10-15 12:18:20 UTC
+**Last updated:** 2026-10-15 17:30:16 UTC
